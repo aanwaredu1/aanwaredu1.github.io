@@ -1,0 +1,92 @@
+
+div{
+	font-size: 16px;
+	color: white;
+	font-style: oblique;
+	text-align: center;
+	 background-color: #B45F06;
+
+
+	}
+	
+	div.hover:hover{
+		background-color: grey;
+	}
+ span:hover {
+        color: black;
+}
+.button1,
+.button2,
+.button3 {
+    background-color: #B45F06;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+div:hover{
+color: blue;
+
+}
+
+
+
+
+hr{
+	border-color: brown;
+}
+
+
+hr.hr2{
+	width: 40%;
+	border-color: brown;
+}
+
+
+ul{
+	font-size: 18px;
+	font-weight: 700;
+	font-style: oblique;
+}
+a:hover{
+	color: black;
+}
+
+}
+
+p.mainsection{
+	font-size: 18px;
+	font-weight: 700;
+	font-style: oblique;
+
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+	
+div.foot {
+  background-color: grey;
+  margin-top:18%;
+  padding: 40px;
+
+}
+div.foot1{
+
+ background-color: black;
+
+}
+.fa-youtube {
+  background: #bb0000;
+  font-size: 40px;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  font-size: 40px;
+   color: white;
+}
